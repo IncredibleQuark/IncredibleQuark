@@ -6,7 +6,7 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" height="52" width="52" alt="http logo" title="Http"  />
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="52" width="52" alt="rest logo"  title="REST"  />
-  <img src="	https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" height="52" width="52" alt="soap logo"  title="SOAP"  />
+  <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" height="52" width="52" alt="soap logo"  title="SOAP"  />
   <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" height="52" width="52" alt="websocket logo"  title="websocket"  />
 </div>
   
@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="52" width="52" alt="visual studio code logo"  title="Visual Studio Code"  />  
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="52" width="52" alt="postman logo"  title="Postman"  />
   <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="52" width="52" alt="jira logo"  title="Jira"  />
-  <img src="	https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" height="52" width="52" alt="sonarqube logo"  title="SonarQube"  />
+  <img src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" height="52" width="52" alt="sonarqube logo"  title="SonarQube"  />
 </div>
 
 #### Web Dev
