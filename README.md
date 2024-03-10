@@ -91,7 +91,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=incrediblequark&theme=dracula&hide_border=true" height="160" alt="streak graph"  />
-  <img src="github-readme-stats-beige-chi.vercel.app/api/top-langs/?username=incrediblequark&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats-beige-chi.vercel.app/api/top-langs/?username=incrediblequark&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="languages graph"  />
 </div>
 
 
